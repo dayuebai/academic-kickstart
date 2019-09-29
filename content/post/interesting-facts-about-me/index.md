@@ -1,7 +1,7 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "Intresting Facts About Me"
+title: "Interesting Facts About Me"
 subtitle: ""
 summary: ""
 authors: [Dayue Bai]
