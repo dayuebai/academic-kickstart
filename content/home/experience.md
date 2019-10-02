@@ -37,21 +37,6 @@ date_format = "Jan 2006"
   """
 
 [[experience]]
-  title = "Software Engineer Intern"
-  company = "IBM"
-  company_url = "https://www.ibm.com/"
-  location = "Dalian, China"
-  date_start = "2019-06-01"
-  date_end = "2019-09-01"
-  description = """
-  Responsibilities include:
-
-  * Developed a human resource management system that helps HR manage recruiting, employee performance, payroll and benefits more easily (Javax, Spring, MyBatis, DB2, AIX).
-  
-  * Deployed distributed systems and applications in IBM Cloud environment to meet requirements for API testing.
-  """
-
-[[experience]]
   title = "Undergraduate Grader"
   company = "UC Irvine, Department of Computer Science"
   company_url = "https://www.ics.uci.edu"
