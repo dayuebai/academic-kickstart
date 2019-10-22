@@ -18,12 +18,12 @@ organizations:
   url: "https://uci.edu/"
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include Big Data analytics, Big Data management, and data visualization.
+bio: My research interests include Big Data analytics, Big Data management, and data mining.
 
 interests:
 - Big Data Analytics
 - Big Data Management
-- Data Visualization
+- Data Mining
 - Information Retrieval
 
 education:
@@ -81,6 +81,6 @@ email: "dayueb@uci.edu"
 #- Visitors
 ---
 
-Welcome to Dayue Bai's zone! I am a senior computer science student at University of California, Irvine. Since 2018 summer, I have been working with Prof.[**Chen Li**](https://chenli.ics.uci.edu/) on a research project named [**Cloudberry**](cloudberry.ics.uci.edu), which is a general-purpose **middleware** system to support Big Data visualization. My main focus is to implement an adapter that translates queries and connects Cloudberry to Elasticsearch. Moreover, I have also rebuilt an entirely new [**UCI Campus Directory**](https://directory.uci.edu) from scratch and evaluated several open-source database systems and BI services.
+Welcome to Dayue Bai's zone! I am a senior computer science student at University of California, Irvine. Since 2018 summer, I have been working with Prof.[**Chen Li**](https://chenli.ics.uci.edu/) on a research project named [**Cloudberry**](cloudberry.ics.uci.edu), which is a general-purpose **middleware** system to support Big Data visualization. My main focus is to implement an Elasticsearch adapter that translates queries and connects Cloudberry to Elasticsearch. In addition, I also rebuilt an entirely new [**UCI Campus Directory**](https://directory.uci.edu) from scratch and evaluated several open-source database systems and BI services.
 
 I expect to graduate in 2019 Fall and am actively applying for graduate programs in Computer Science. To know more about me, feel free to check out my projects and the incoming post: [**Interesting facts about me**](https://dayuebai.com/post/intresting-facts-about-me/). Let's stay in touch!
