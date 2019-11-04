@@ -31,7 +31,7 @@ date_format = "Jan 2006"
   
   * Designed an ingestion pipeline that leverages multithreading to clean and load data into Elasticsearch efficiently (tested on 1.5 billion tweets).
 
-  * Deployed Cloudberry and Elasticsearch on a cluster (5 nodes) which boosts keywords search query speed by 40%.
+  * Deployed Cloudberry and Elasticsearch on a cluster (5 nodes) which boosts keywords search query speed by 35%.
 
   * Evaluated open-source databases and BI services, including Apache Druid, Greenplum, Neo4j, and Amazon QuickSight.
   """
